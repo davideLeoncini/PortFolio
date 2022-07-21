@@ -1,5 +1,6 @@
 <h1 align="center"> Last Ride </h1>
 <b>Where</b>: <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB"> Digital Bros Game Academy </a><br />
+<b>When</b>: 2022 <br />
 <b>Partner</b>: <a href="https://34bigthings.com/"> 34BigThings </a><br />
 <b>Genre</b>: First person story driven driving <br />
 <b>Platform</b>: PC <br /><br />
@@ -32,6 +33,7 @@ In this project I worked on:
 
 <h1 align="center"> Cuddly Monsters' Catch </h1>
 <b>Where</b>: <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB"> Digital Bros Game Academy </a><br />
+<b>When</b>: 2022 <br />
 <b>Partner</b>: <a href="https://www.gameloft.com/gameloft-studios/sofia"> Gameloft Sofia </a><br />
 <b>Genre</b>: Match3 <br />
 <b>Platform</b>: Mobile <br /><br />
@@ -63,6 +65,7 @@ In this project I worked on:
 
 <h1 align="center"> O2 </h1>
 <b>Where</b>: <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB"> Digital Bros Game Academy </a><br />
+<b>When</b>: 2021 <br />
 <b>Genre</b>: First person simulator <br />
 <b>Platform</b>: PC <br /><br />
   
