@@ -1,18 +1,23 @@
 <h1 align="center"> Last Ride </h1>
-<b> Genre: First person story driven driving <br />
-Platform: PC </b> <br /><br />
+<b>
+  Done at: <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB"> Digital Bros Game Academy </a><br />
+  Partner: <a href="https://34bigthings.com/"> 34BigThings </a><br />
+  Genre: First person story driven driving <br />
+  Platform: PC <br /><br />
+</b>
 
 <i> Lost and without memory you’re charged by Death to accompany lost souls to the afterlife.
 Drive through the city, give rides to lost souls and investigate to find their final destination.
-Mysterious events are taking place in the city… will you be able to do your job, discover your past and solve the mystery? </i> <br /><br />
+Mysterious events are taking place in the city… will you be able to do your job, discover your past and solve the mystery? </i> <br />
 
 In this project I worked on:
 <ul>
   <li> Data management </li>
-  <li> Dialogue system with <a target= "_blank" href="https://www.inklestudios.com/ink/"> Ink </a></li>
+  <li> Dialogue system with <a href="https://www.inklestudios.com/ink/"> Ink </a></li>
   <li> City places interaction </li>
   <li> Car tools interaction </li>
   <li> UI and HUD logic </li>
+  <li> GPS system </li>
 </ul>
 
 <p align="center">
@@ -23,8 +28,13 @@ In this project I worked on:
 </p>
 
 <h1 align="center"> Cuddly Monsters' Catch </h1>
-<b> Genre: Match3  
-Platform: Mobile </b> <br /><br />
+<b>
+  Done at: <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB"> Digital Bros Game Academy </a><br />
+  Partner: <a href="https://www.gameloft.com/gameloft-studios/sofia"> Gameloft Sofia </a><br />
+  Genre: Match3 <br />
+  Platform: Mobile <br /><br />
+</b>
+
 <i> Feed and train these cute monsters and prepare them to fight along your side in this Match 3 colorful game. Bring your creatures to battle, unleash their unique powers and use them to defeat and catch delightful bosses to fill your ranch. </i> <br /><br />
 
 In this project I worked on:
@@ -48,8 +58,11 @@ In this project I worked on:
 
 
 <h1 align="center"> O2 </h1>
-<h3> Genre: First person simulator </h3>
-<h3> Platform: PC </h3>
+<b>
+  Done at: <a href="https://dbgameacademy.it/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GLU5Ea6NNwwBL4gu1LutBM2M50qc8DkTI3tR4O2n3y5AZv8C5EZOcaAhvtEALw_wcB"> Digital Bros Game Academy </a><br />
+  Genre: First person simulator <br />
+  Platform: PC <br /><br />
+</b>
 <i> Futile or Future-Saving? Ensure the survival of humanity through the actions of the O-2 maintenance drone, reinventing the role of the forest ranger in a natureless world by preserving your new greenwoods of Oxygen generators through manual skills and help from mechanical companions.</i> <br /><br />
 
 
