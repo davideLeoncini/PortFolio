@@ -22,7 +22,7 @@ In this project I worked on:
   <img src="https://user-images.githubusercontent.com/90765289/180183778-da679a30-ec2e-45f2-ba54-b5e5faeb0906.png" alt="" width="720"/>
 </p>
 
-<details><summary>Sceenshot</summary>
+<details><summary>Screenshot</summary>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/90765289/180182951-9990a9c1-f465-4f55-8e0a-9831802564df.png" alt="" width="720"/>
     <img src="https://user-images.githubusercontent.com/90765289/180183064-88378e4f-94b6-4ff5-bf83-69df203e8f9a.png" alt="" width="720"/> 
@@ -50,7 +50,7 @@ In this project I worked on:
   <img src="https://user-images.githubusercontent.com/90765289/180166606-fa2d9e84-ae6d-4f8a-902b-3e2b89c8ee8c.png" alt="" width="720"/>
 </p>
 
-<details><summary>Sceenshot</summary>
+<details><summary>Screenshot</summary>
   <p align="center">  
     <img src="https://user-images.githubusercontent.com/90765289/180166777-e4595332-81e0-495f-a7dc-0202662f756b.png" alt="" width="400"/> 
     <img src="https://user-images.githubusercontent.com/90765289/180166787-f125a4db-9434-4528-a38e-b40df109efaf.png" alt="" width="400"/>  
@@ -81,7 +81,7 @@ In this project I worked on:
   <img src="https://user-images.githubusercontent.com/90765289/180161691-8e937712-a659-435f-9b3f-0fb25e8fc4d4.png" alt="" width="720"/>
 </p>
 
-<details><summary>Sceenshot</summary>
+<details><summary>Screenshot</summary>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/90765289/180161749-06cbef84-17a8-41f7-95dd-27a579d72136.png" alt="" width="720"/>
     <img src="https://user-images.githubusercontent.com/90765289/180161800-3669eab8-6019-4ad9-bd13-829126f7582a.png" alt="" width="720"/>
