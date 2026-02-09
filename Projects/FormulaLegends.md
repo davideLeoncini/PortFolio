@@ -3,7 +3,7 @@
 <b>Release</b>: 18th September 2025 <br />
 <b><a href="https://store.steampowered.com/app/3194360/Formula_Legends/"> Steam link </a></b><br />
 <b>Genre</b>: Racing Sim <br />
-<b>Platform</b>: PC, XBoxOne, XBoxSeries, PlayStation 4, PlayStation 5, Switch <br /><br />
+<b>Platform</b>: PC and consoles <br /><br />
 
 
 <i> From the golden age to the modern era, race through time in Formula Legends. Master reimagined circuits, command legendary cars, and chase glory across decades of motorsport history. A love letter to Formula racing, where speed, skill, and strategy define the champion. </i> <br /><br />
