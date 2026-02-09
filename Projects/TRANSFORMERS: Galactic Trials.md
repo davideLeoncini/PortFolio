@@ -3,7 +3,7 @@
 <b>Release</b>: 11th October 2024 <br />
 <b><a href="https://store.steampowered.com/app/2324210/TRANSFORMERS_Galactic_Trials/"> Steam link </a></b><br />
 <b>Genre</b>: Roguelite Combat Racer <br />
-<b>Platform</b>: PC, XBoxOne, XBoxSeries, PlayStation 4, PlayStation 5, Switch <br /><br />
+<b>Platform</b>: PC and consoles <br /><br />
 
 
 <i> Roll out for an intense fusion of arcade racing and combat in the TRANSFORMERS Galactic Trials! Evil NEMESIS PRIME has stolen the Prime Relics, which bestow incredible powers on whoever possesses them. Now the AUTOBOTS and DECEPTICONS are in an explosive race to recover the relics – the future of Cybertron is in your hands!
