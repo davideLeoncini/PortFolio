@@ -3,7 +3,7 @@
 <b>Release</b>: 31st October 2025 <br />
 <b><a href="https://store.steampowered.com/app/3194360/Formula_Legends/"> Steam link </a></b><br />
 <b>Genre</b>: Sim-Cade Racing Game <br />
-<b>Platform</b>: PC and consoles
+<b>Platform</b>: PC and consoles <br /><br />
 
 
 <i> The Rescue Wheels crew is revved up and ready to race! Join Chase, Skye, Marshall, Rubble, Zuma, Rocky, and Roxi, in epic races across Adventure Bay and beyond. You can even cause mischief with Boomer & Frank or Mayor Humdinger.
