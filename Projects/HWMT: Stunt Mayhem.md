@@ -3,7 +3,7 @@
 <b>Release</b>: 11th October 2024 <br />
 <b><a href="https://store.steampowered.com/app/2468400/Hot_Wheels_Monster_Trucks_Stunt_Mayhem/"> Steam link </a></b><br />
 <b>Genre</b>: Stunt Racing Game <br />
-<b>Platform</b>: PC, XBoxOne, XBoxSeries, PlayStation 4, PlayStation 5, Switch <br /><br />
+<b>Platform</b>: PC and consoles <br /><br />
 
 <i> Rev up your engines and get ready for the most thrilling monster truck experience of a lifetime! Dive into the heart-pounding world of epic stunts and colossal crashes, where your favorite Hot Wheels Monster Trucks™ come to life with exhilarating fun. Smash, crash, and perform mind-blowing tricks across fantastical arenas in this adrenaline-fueled arcade adventure. Master the art of destruction with 20 iconic trucks, each equipped with unique signature moves, and dominate the competition in head-to-head battles, career challenges, and boss fights. It’s go big, or go home in the ultimate Monster Truck showdown! </i> <br /><br />
 
