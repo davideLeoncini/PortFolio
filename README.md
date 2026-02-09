@@ -1,6 +1,9 @@
 <h1>Shipped Games</h1>
 <ul>
   <li><b><a href="https://github.com/davideLeoncini/PortFolio/blob/main/Projects/FormulaLegends.md"> Formula Legends </b></a></li>
+  <li><b><a href="https://github.com/davideLeoncini/PortFolio/blob/main/Projects/HWMT: Stunt Mayhem.md"> HWMT: Stunt Mayhem </b></a></li>
+  <li><b><a href="https://github.com/davideLeoncini/PortFolio/blob/main/Projects/TRANSFORMERS: Galactic Trials.md"> TRANSFORMERS: Galactic Trials </b></a></li>
+  <li><b><a href="https://github.com/davideLeoncini/PortFolio/blob/main/Projects/PPRW: Championship.md"> PPRW: Championship </b></a></li>
 </ul>
 
 <h1>Academic Projects</h1>
